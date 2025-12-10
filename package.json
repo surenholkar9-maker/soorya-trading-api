@@ -1,0 +1,23 @@
+{
+  "name": "soorya-trading-api",
+  "version": "1.0.0",
+  "description": "Clean Upstox OAuth2 Trading API Backend",
+  "main": "api/auth.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Vercel handles builds'",
+    "test": "echo 'No tests configured'"
+  },
+  "keywords": [
+    "upstox",
+    "trading",
+    "oauth2",
+    "api"
+  ],
+  "author": "Suren Holkar",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": "18.x"
+  }
+}
